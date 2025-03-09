@@ -6,12 +6,12 @@ I am always excited to learn new technologies and improve my skills to create de
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Dart, Java, Kotlin, Swift, Objective-C
+- **Languages:** Dart, Java, C/C++, SQL
 - **Frameworks:** Flutter, Android Sdk, Xcode Sdk
 - **State Management:** Provider, BLoC, Riverpod
 - **Version Control:** Git, GitHub
 - **CI/CD:** GitHub Actions
-- **Database:** Firebase, SQLite, Hive, secure Storage
+- **Database:** Firebase, SQLite, Hive, Secure Storage
 - **Tools:** Android Studio, Visual Studio Code, Xcode
 - **Flavours:** iOS/Android Flavours for different environments (e.g., staging, production)
 
